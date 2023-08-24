@@ -22,7 +22,7 @@ Version numbers distinguish between Major releases, Minor releases, and Micro re
 Version numbers are formatted as [Major Version].[Minor version].[Macro version] - for example, version 1.5.7 is major version 1, minor version 5, and macro version 7.
 
 ### Version Names
-Each minor version is given a name as an additional way of keeping track of them. These version names are named after wind band composers, and are always in alphabetical order. See the [Version Names document](https://github.com/CardijnLevi/TutorAbsence/blob/c58736df1c44050a758bb1abb1461376ddb85def/Version_Names.md) for a list of names and composers.
+Each version is given a name as an additional way of keeping track of them. These version names are named after wind band composers, and are always in alphabetical order. See the [Version Names document](https://github.com/CardijnLevi/TutorAbsence/blob/c58736df1c44050a758bb1abb1461376ddb85def/Version_Names.md) for a list of names and composers.
 
 ## Version Updates
 
