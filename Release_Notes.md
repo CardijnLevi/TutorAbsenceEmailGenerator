@@ -3,6 +3,7 @@
 ## About
 This document lists all release notes for the Tutor Absence Email Generator in order of most recent. Each update is formatted as follows:
   - Version Number, Version Name, and Date of release (See below for info on Version Numbers and Version Names)
+  - Notes
   - Added Features
   - Removed Features
   - Modified Features
@@ -25,7 +26,14 @@ Each minor version is given a name as an additional way of keeping track of them
 ## Version Updates
 
 ### 0.1.0: Allen 00/08/23
+#### Notes
+Initial version - all features are new!
 #### Added Features
+- Option to select tutor from list, which is populated by tutors.csv file.
+- Option to select instruments and ensembles based on the tutor selected.
+- Option to select between Today and Tomorrow (Today set by default.)
+- Option to copy message to clipboard.
+- Help button which brings up dialog box.
 #### Removed Features
 #### Modified Features
 #### Bug Fixes
