@@ -27,8 +27,8 @@ Each minor version is given a name as an additional way of keeping track of them
 ### 1.0.0: Allen 00/08/23
 #### Added Features
 #### Removed Features
-###### Modified Features
-###### Bug Fixes
-###### Other
+#### Modified Features
+#### Bug Fixes
+#### Other
 
 
