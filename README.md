@@ -19,3 +19,4 @@ Below is a list of planned improvements for future versions. As these changes ar
 - ADDED FEATURE: CSV Editing capabilities.
 - MODIFIED FEATURE: Incorporate support for multiple ensembles being selected.
 - ADDED FEATURE: Add Icon
+- ADDED FEATURE: Disable help button while help dialog is active
