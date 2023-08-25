@@ -15,11 +15,12 @@ The details of current and past versions can be found in [the Release_Notes docu
 
 Below is a list of planned improvements for future versions. As these changes are implemented, they will be removed from this list.
 
-- BUG FIX: Select first tutor by default to avoid unexpected error. (Fixed in version 0.1.1)
-- ADDED FEATURE: Include links to this repository. (Fixed in version 0.1.1)
+- BUG FIX: Select first tutor by default to avoid unexpected error. (Fixed in future version 0.2.0)
+- ADDED FEATURE: Include links to this repository. (Fixed in future version 0.2.0)
 - ADDED FEATURE: CSV Editing capabilities.
 - MODIFIED FEATURE: Incorporate support for multiple ensembles being selected.
-- ADDED FEATURE: Add Icon
-- ADDED FEATURE: Disable help button while help dialog is active
-- ADDED FEATURE: Message box to advise that the program is running. (Fixed in version 0.1.1)
+- ADDED FEATURE: Add Icon (Fixed in future version 0.2.0)
+- ADDED FEATURE: Disable "?" button while help dialog is active (Fixed in future version 0.2.0)
+- ADDED FEATURE: Disable "Copy to Clipboard" button when help dialog is active. (Fixed in future version 0.2.0)
+- ADDED FEATURE: Message box to advise that the program is running. (Fixed in future version 0.2.0)
 - ADDED FEATURE: Ability to select the CSV File being read from.
