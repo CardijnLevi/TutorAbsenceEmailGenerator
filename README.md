@@ -20,3 +20,5 @@ Below is a list of planned improvements for future versions. As these changes ar
 - MODIFIED FEATURE: Incorporate support for multiple ensembles being selected.
 - ADDED FEATURE: Add Icon
 - ADDED FEATURE: Disable help button while help dialog is active
+- ADDED FEATURE: Message box to advise that the program is running. (Fixed in version 0.1.1)
+- ADDED FEATURE: Ability to select the CSV File being read from.
