@@ -2,6 +2,7 @@
 
 ## Introduction
 This tool exists to aid in writing an email to advise of a tutor's absence.
+Once running, press Ctrl+Win+W to bring up the dialog box.
 Users select the tutor's name from the list, and then select any applicable instruments or ensembles, then click "Copy to Clipboard" to copy an email to the clipboard.
 If the wrong options are selected in the Instrument or Ensemble list, users can click on the Tutor's name again to refresh those options.
 Multiple options in each list can be selected by clicking and dragging, or by holding control and selecting/deselecting the desired options.
