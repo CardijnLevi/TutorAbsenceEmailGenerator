@@ -30,10 +30,10 @@ Each version is given a name as an additional way of keeping track of them. Thes
 #### Known Issues
 - When a generated message is presented, it is copied to the clipboard when the X button in the title bar is pressed.
 #### Added Features
-- ADDED FEATURE: Include links to this repository.
-- ADDED FEATURE: Add Icon.
-- ADDED FEATURE: Disable "?" button while help dialog is active.
-- ADDED FEATURE: Disable "Copy to Clipboard" button when help dialog is active.
+- ADDED FEATURE: Included links to this repository.
+- ADDED FEATURE: Added Icon.
+- ADDED FEATURE: Disabled "?" button while help dialog is active.
+- ADDED FEATURE: Disabled "Copy to Clipboard" button when help dialog is active.
 - ADDED FEATURE: Message box to advise that the program is running.
 #### Bug Fixes
 - BUG FIX: First tutor by default to avoid unexpected error.
