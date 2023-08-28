@@ -26,6 +26,18 @@ Each version is given a name as an additional way of keeping track of them. Thes
 
 ## Version Updates
 
+### 0.2.0: Alford 25/08/23
+#### Known Issues
+- When a generated message is presented, it is copied to the clipboard when the X button in the title bar is pressed.
+#### Added Features
+- ADDED FEATURE: Include links to this repository.
+- ADDED FEATURE: Add Icon.
+- ADDED FEATURE: Disable "?" button while help dialog is active.
+- ADDED FEATURE: Disable "Copy to Clipboard" button when help dialog is active.
+- ADDED FEATURE: Message box to advise that the program is running.
+#### Bug Fixes
+- BUG FIX: First tutor by default to avoid unexpected error.
+___
 ### 0.1.0: Allen 20/08/23
 #### Notes
 Initial version - all features are new!
@@ -38,20 +50,7 @@ Initial version - all features are new!
 - Option to select between Today and Tomorrow (Today set by default.)
 - Option to copy message to clipboard.
 - Help button which brings up dialog box.
-
-### 0.2.0: Alford 25/08/23
-#### Notes
-#### Known Issues
-- When a generated message is presented, it is copied to the clipboard when the X button in the title bar is pressed.
-#### Added Features
-- ADDED FEATURE: Include links to this repository.
-- ADDED FEATURE: Add Icon.
-- ADDED FEATURE: Disable "?" button while help dialog is active.
-- ADDED FEATURE: Disable "Copy to Clipboard" button when help dialog is active.
-- ADDED FEATURE: Message box to advise that the program is running.
-#### Bug Fixes
-- BUG FIX: First tutor by default to avoid unexpected error.
-
+___
 ### 0.0.0: NAME 00/00/00
 #### Notes
 #### Known Issues
@@ -60,5 +59,3 @@ Initial version - all features are new!
 #### Modified Features
 #### Bug Fixes
 #### Other
-
-
