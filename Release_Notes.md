@@ -36,7 +36,7 @@ Each version is given a name as an additional way of keeping track of them. Thes
 - ADDED FEATURE: Disabled "Copy to Clipboard" button when help dialog is active.
 - ADDED FEATURE: Message box to advise that the program is running.
 #### Bug Fixes
-- BUG FIX: First tutor by default to avoid unexpected error.
+- BUG FIX: First tutor in the list is now selected by default to avoid unexpected error.
 ___
 ### 0.1.0: Allen 20/08/23
 #### Notes
